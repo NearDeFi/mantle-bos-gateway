@@ -48,7 +48,7 @@ export const onboard = init({
     },
     {
       id: 5001,
-      token: 'ETH',
+      token: 'MNT',
       label: 'Mantle Testnet',
       rpcUrl: 'https://rpc.testnet.mantle.xyz',
       color: networkColor,
@@ -56,8 +56,8 @@ export const onboard = init({
     },
     {
       id: 5000,
-      token: 'ETH',
-      label: 'Mantle Mainnet',
+      token: 'MNT',
+      label: 'Mantle',
       rpcUrl: 'https://rpc.mantle.xyz',
       color: networkColor,
       icon: networkIcon,
